@@ -8,7 +8,7 @@ import MySQLdb
 import MySQLdb.cursors
 import _mysql_exceptions
 import time
-from log.log import *
+from log import *
 
 ############################################
 ##  sql最大长度
